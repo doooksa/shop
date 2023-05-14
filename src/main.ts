@@ -20,7 +20,7 @@ async function bootstrap() {
 
   app.enableCors({
     credentials: true,
-    origin: ['http://localhost:3001','https://buyfun.online', 'https://shop-client-xh0o.onrender.com'],
+    origin: ['http://localhost:3001','https://buyfun.online', 'https://shop-client-xh0o.onrender.com', 'https://shop-server-x41v.onrender.com'],
   });
 
 
